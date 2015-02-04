@@ -1,0 +1,2 @@
+echo "$(sudo cp bin/test.py /usr/local/bin/ && cp src/server.list ~/Document/");
+
